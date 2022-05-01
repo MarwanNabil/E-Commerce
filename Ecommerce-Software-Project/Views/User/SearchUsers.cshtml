@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Ecommerce_Software_Project.Models.User>
+@{
+    ViewData["Title"] = "SearchUsers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>SearchUsers</h1>
+
+<div class="container">
+    <div>
+        <form asp-action="SearchUsersWithString" class="input-group mb-3">
+          <input type="text" class="form-control" placeholder="Search For Name..." name="searchName">
+          <button class="btn btn-primary" type="submit">Search</button>
+        </form>
+    </div>
+    <div class="row">
+
+    @foreach (var user in Model)
+    {
+        <div class="col-3 m-2 btn-outline-light">
+            <img src="@user.UserImageUrl" class="img-fluid" style="object-fit:cover">
+            <ul>
+                <li>Name: @user.Name</li>
+                <li>Email: @user.Email</li>
+                <li>Phone Number: @user.phoneNumber</li>
+                <li>Country: @user.Country</li>
+                <li>Address: @user.address</li>
+            </ul>
+        </div>
+    }
+    </div>
+</div>

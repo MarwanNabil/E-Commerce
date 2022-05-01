@@ -1,0 +1,56 @@
+﻿@model Ecommerce_Software_Project.ViewModels.AddProductView
+
+<h1>Add Product</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Addproduct" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="product.ProductName" class="control-label"></label>
+                <input asp-for="product.ProductName" class="form-control" />
+                <span asp-validation-for="product.ProductName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="productImage" class="control-label"></label>
+                <input asp-for="productImage" class="form-control" />
+                <span asp-validation-for="productImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="product.Category" class="control-label"></label>
+                <select name="categoryValue" asp-items="@Model.categories" class="form-select">
+                    <option value="">Select Category</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="product.ProductPrice" class="control-label"></label>
+                <input asp-for="product.ProductPrice" class="form-control" type="number" />
+                <span asp-validation-for="product.ProductPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="product.ProductDescription" class="control-label"></label>
+                <textarea asp-for="product.ProductDescription" class="form-control"></textarea>
+                <span asp-validation-for="product.ProductDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="product.ProductQuantity" class="control-label"></label>
+                <input asp-for="product.ProductQuantity" class="form-control" type="number" />
+                <span asp-validation-for="product.ProductQuantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="product.ProductWarranty" class="form-check-input" />
+                <label asp-for="product.ProductWarranty" class="form-check-label"></label>
+                <span asp-validation-for="product.ProductWarranty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="product.IsUsed" class="form-check-input" />
+                <label asp-for="product.IsUsed" class="form-check-label"></label>
+                <span asp-validation-for="product.IsUsed" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

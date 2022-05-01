@@ -1,0 +1,21 @@
+﻿<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+@if (TempData[Toaster.Success] != null)
+{
+    <script type="text/javascript">
+        toastr.success('@TempData[Toaster.Success]')
+    </script>
+}
+@if (TempData[Toaster.Error] != null)
+{
+    <script type="text/javascript">
+        toastr.error('@TempData[Toaster.Error]')
+    </script>
+}
+@if (TempData[Toaster.Warning] != null)
+{
+    <script type="text/javascript">
+        toastr.warning('@TempData[Toaster.Warning]')
+    </script>
+}

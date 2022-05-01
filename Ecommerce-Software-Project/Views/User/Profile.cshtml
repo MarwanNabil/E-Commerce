@@ -1,0 +1,47 @@
+﻿@model Ecommerce_Software_Project.Models.User
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Profile</h1>
+
+<div class="container">
+    <div class="d-flex justify-content-center">
+        <img src="@Model.UserImageUrl" class="rounded-circle img-fluid" width="300" height="300" />
+    </div>
+    <div class="row">
+        <div class="col-6 flex-column">
+            <h4>Name</h4>
+            <h4>Email</h4>
+            <h4>Country</h4>
+            <h4>Phone Number</h4>
+            <h4>Address</h4>
+        </div>
+        <div class="col-6 text-end">
+            <h4>@Model.Name</h4>
+            <h4>@Model.Email</h4>
+            <h4>@Model.Country</h4>
+            <h4>@Model.phoneNumber</h4>
+            <h4>@Model.address</h4>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        @foreach (var product in @Model.Products)
+        {
+            <div class="col-3 m-2 btn-outline-light">
+                <img src="@product.ProductImages" class="img-fluid" style="object-fit:cover">
+                <ul>
+                    <li>Name: @product.ProductName</li>
+                    <li>Price: @product.ProductPrice</li>
+                    <li>Category: @product.Category.CategoryName</li>
+                    <li>Quantity: @product.ProductQuantity</li>
+                    <li>Date: @product.ProductAddedDate</li>
+                    <li>Is Used:  @(product.IsUsed ? "Yes": "No")</li>
+                    <li>Has Warranty: @(product.ProductWarranty ? "Yes": "No")</li>
+                </ul>
+            </div>
+        }
+    </div>
+</div>

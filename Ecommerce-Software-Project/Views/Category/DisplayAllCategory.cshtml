@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Category>
+
+<h1>view Ctegory</h1>
+<hr />
+<style>
+   
+.Categores{
+    overflow :hidden;
+    margin :5px;
+    width :92%;
+    height :auto;
+    background-color: black;
+    color: white;
+    border-radius : 10%;
+    margin:30px auto;
+    justify-content : center;
+    padding :20px;
+}
+.item box{
+    list-style :none;
+    height :350px;
+    float : left;
+    margin :15px;
+    color: white;
+    font-size:25px;
+    transition :1s;
+}
+.item:hover{
+    transform:scale(0.5,0.5);
+    background-color: lightblue ;
+}
+</style>
+
+<div>
+    @foreach(var item in Model)
+    {
+        <div class="Categores">
+            <div class="item box"> @Html.DisplayFor(modelitem => item.CategoryName) </div>
+         </div>
+    }
+</div>
