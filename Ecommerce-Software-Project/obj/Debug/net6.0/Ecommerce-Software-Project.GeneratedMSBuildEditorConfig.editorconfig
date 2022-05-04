@@ -8,81 +8,97 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecommerce_Software_Project
 build_property.RootNamespace = Ecommerce_Software_Project
-build_property.ProjectDir = D:\.Net Projects\E-Commerce\Ecommerce-Software-Project\
+build_property.ProjectDir = D:\Projects\E-Commerce\EE\E-Commerce\Ecommerce-Software-Project\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\.Net Projects\E-Commerce\Ecommerce-Software-Project
+build_property.MSBuildProjectDirectory = D:\Projects\E-Commerce\EE\E-Commerce\Ecommerce-Software-Project
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Auth/Index.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Admin/ShowCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd0NhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Admin/ShowProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Admin/ShowSellers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd1NlbGxlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Auth/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Auth/Register.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Category/DisplayAllCategory.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Category/DisplayAllCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGlzcGxheUFsbENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Home/Index.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Home/Privacy.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Product/Addproduct.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Product/Addproduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRwcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Product/GetAllProductOfShop.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Product/GetAllProductOfShop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRBbGxQcm9kdWN0T2ZTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Product/GetProductOfUser.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Product/GetProductOfUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0T2ZVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Product/GetProductsViaUser.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Product/GetProductsViaUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0c1ZpYVVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Shared/Error.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Shared/_Authentication.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Shared/_Authentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoZW50aWNhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Shared/_Notification.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/User/Profile.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/User/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/User/SearchUsers.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/User/SearchUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTZWFyY2hVc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/_ViewImports.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/_ViewStart.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.Net Projects/E-Commerce/Ecommerce-Software-Project/Views/Shared/_Layout.cshtml]
+[D:/Projects/E-Commerce/EE/E-Commerce/Ecommerce-Software-Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v2ov29si2v

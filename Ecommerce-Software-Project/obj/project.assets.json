@@ -9654,19 +9654,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\blood\\.nuget\\packages\\": {}
+    "C:\\Users\\Marwan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net Projects\\E-Commerce\\Ecommerce-Software-Project\\Ecommerce-Software-Project.csproj",
+      "projectUniqueName": "D:\\Projects\\E-Commerce\\EE\\E-Commerce\\Ecommerce-Software-Project\\Ecommerce-Software-Project.csproj",
       "projectName": "Ecommerce-Software-Project",
-      "projectPath": "D:\\.Net Projects\\E-Commerce\\Ecommerce-Software-Project\\Ecommerce-Software-Project.csproj",
-      "packagesPath": "C:\\Users\\blood\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net Projects\\E-Commerce\\Ecommerce-Software-Project\\obj\\",
+      "projectPath": "D:\\Projects\\E-Commerce\\EE\\E-Commerce\\Ecommerce-Software-Project\\Ecommerce-Software-Project.csproj",
+      "packagesPath": "C:\\Users\\Marwan\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\E-Commerce\\EE\\E-Commerce\\Ecommerce-Software-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\blood\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
