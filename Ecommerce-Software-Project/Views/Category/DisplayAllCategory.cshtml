@@ -2,6 +2,25 @@
 
 <h1>view Ctegory</h1>
 <hr />
+
+<div style= "margin : 13px; float :left;"> 
+    <a href="@Url.Action("AddCategory")" class="btn btn-primary"> Add New Category </a> 
+</div>
+
+<!-- <a asp-action="getAllProducts" class ="btn btn-primary">view Products</a> -->
+<div>
+    @foreach(var item in Model)
+    {
+        <div class="Categores">
+            <div style="font-size: 20px " > @Html.DisplayFor(modelitem => item.CategoryName) 
+            <div class="btn btn-primary" style=""> 
+              @Html.ActionLink("DisplayProduct","DisplaySpecialProducts","product",new{id = item.Id},new { @style="text-decoration: none;color: white" })
+            </div>
+            </div>
+         </div>
+    }
+</div>
+
 <style>
    
 .Categores{
@@ -26,16 +45,10 @@
     transition :1s;
 }
 .item:hover{
-    transform:scale(0.5,0.5);
+    transform:scale(1,1);
     background-color: lightblue ;
 }
+.btn{
+    float: right;
+}
 </style>
-
-<div>
-    @foreach(var item in Model)
-    {
-        <div class="Categores">
-            <div class="item box"> @Html.DisplayFor(modelitem => item.CategoryName) </div>
-         </div>
-    }
-</div>

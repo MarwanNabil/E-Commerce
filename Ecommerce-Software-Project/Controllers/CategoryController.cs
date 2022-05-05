@@ -19,17 +19,28 @@ namespace Ecommerce_Software_Project.Controllers
             List<Category> category = getCategory();
             return View(category);
         }
-
-        public IActionResult Create(Category model)
+        public IActionResult AddCategory()
         {
-            db.Categories.Add(model);
-            db.SaveChanges();
             return View();
         }
-        public IActionResult getAllProducts(int categoryId)
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Save(Models.Category ca)
         {
-            var products = db.Products.Where(p => p.CategoryID == categoryId);
-            return View(products);
+
+            if (!ModelState.IsValid)
+            {
+                return View("AddCategory",ca);
+            }
+            var category = new Category
+            {
+                CategoryName = ca.CategoryName
+            };
+            db.Categories.Add(category);
+            db.SaveChanges();
+         
+            return RedirectToAction("DisplayAllCategory");
         }
     }
 }
