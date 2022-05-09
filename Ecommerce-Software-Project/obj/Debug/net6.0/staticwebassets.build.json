@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5Yf9MN9udtuscE3U7Q0j8qQf2ZlsgmshRE6CVkPJpRg=",
+  "Hash": "wtDR/n9oF7QnBPvqx98yqGiZAnHrQ+D7Xe9C6CWPIHQ=",
   "Source": "Ecommerce-Software-Project",
   "BasePath": "_content/Ecommerce-Software-Project",
   "Mode": "Default",
@@ -238,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\images\\2c74b262-99e6-4d5d-9d48-57d71876679bFRIt18WWYAASZny.jpg"
     },
     {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg"
+    },
+    {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\38ce6d3b-82c1-4dd0-ba80-fee4e6d61d3e800px-Node.js_logo.svg.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
@@ -406,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\87581ab8-ff8d-45b3-9dfb-7a1d49a12c1fFRIt18WWYAASZny.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\8bf8d6a3-5113-448b-bae2-e902c5d7606elibrary.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/8bf8d6a3-5113-448b-bae2-e902c5d7606elibrary.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8bf8d6a3-5113-448b-bae2-e902c5d7606elibrary.jpg"
     },
     {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\90ac26e6-5fcc-4c17-9049-4eb0fd79472f2-post-removebg-preview.jpg",
