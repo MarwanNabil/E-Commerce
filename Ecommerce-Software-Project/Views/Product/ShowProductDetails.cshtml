@@ -1,0 +1,92 @@
+﻿@model Ecommerce_Software_Project.ViewModels.ShowProductDetailsView
+
+<div class="container">
+    <h5 class="display-4">@Model.product.Category.CategoryName</h5>
+
+    <div class="row">
+        <div class="col-md-6">
+            <img class="d-block w-100" src="@Model.product.ProductImages" />
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>@Model.product.ProductName</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-primary">
+                    <span class="label label-primary">Seller: </span>
+                    <span class="monospaced">@Model.product.Seller.Name</span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="description">
+                        @Model.product.ProductDescription
+                    </p>
+                </div>
+            </div>
+
+            <hr />
+            <ul class="list-group">
+                <li class="list-group-item"><span class="font-weight-bold">Is used: </span> @(Model.product.IsUsed?"Yes":"No")</li>
+                <li class="list-group-item"><span class="font-weight-bold">Warranty: </span> @(Model.product.ProductWarranty?"Yes":"No")</li>
+                <li class="list-group-item"><span class="font-weight-bold">Quantity: </span> @Model.product.ProductQuantity</li>
+                <li class="list-group-item"><span class="font-weight-bold">Price: </span> $@Model.product.ProductPrice </li>
+            </ul>
+            <hr />
+            <button class="btn btn-primary btn-rounded">Buy Now</button>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-6">
+                <form method="post" asp-action="GetReview" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="product.Id" />
+                    <div class="form-group">
+                        <label asp-for="review.Description" class="control-label">Leave your review:</label>
+                        <input type="text" id="review.Description" asp-for="review.Description" class="form-control" />
+                        <span asp-validation-for="review.Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="review.rate" class="control-label"></label>
+                        <input asp-for="review.rate" class="form-control" type="number" min="1" max="5" />
+                        <span asp-validation-for="review.rate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Add" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <hr />
+        @foreach (var item in Model.reviews)
+        {
+            <input type="hidden" asp-for="product.Id" />
+            <div class = "row">
+                <div class="mx-2 w-100">
+                    <div class="d-flex">
+                        <img src="@item.User.UserImageUrl" class="rounded-circle" style="width:40px;height:40px;" />
+                        <h5 class="fw-bold"  >@item.User.Name</h5>
+                        <p>@item.Date</p>
+                    </div>
+                    <div style="box-sizing:content-box;" class = "col-md-6">
+                        <p class="m-0">@item.Description</p>
+                    </div>
+                    <div class = "col-md-12">
+                        <p class="fw-bold"> rating: @item.rate/5  </p>
+                    </div>
+                </div>
+            </div>
+            <br /><br /><br /><br /><br />
+            
+
+        }
+
+    </div>
+</div>
+
+
+

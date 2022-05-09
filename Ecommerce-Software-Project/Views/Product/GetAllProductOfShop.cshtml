@@ -40,7 +40,10 @@
                             <h3 class="box-title mt-2">Product description</h3>
                             <p>@item.ProductDescription</p>
                             <h3 class="mt-5">@item.ProductPrice $</h3>
-                            <button class="btn btn-primary btn-rounded">Buy Now</button>
+                            <div class ="btn-group">
+                                <button class="btn btn-primary btn-rounded">Buy Now</button>
+                                <a href = "/Product/ShowProductDetails/@item.Id" class = "btn btn-sm btn-outline-secondary">View details</a>
+                            </div>
                         </div>
                     </div>
                 </div>

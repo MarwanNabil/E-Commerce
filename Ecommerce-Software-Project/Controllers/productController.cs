@@ -99,11 +99,58 @@ namespace Ecommerce_Software_Project.Controllers
         }
 
         //purchase products
-        public IActionResult purchaseProduct(int productID, int quantityNeeded)
+        /*public IActionResult purchaseProduct(int id, int quantityNeeded)
         {
+            Product product = new Product {Id = id};
+            product.ProductQuantity = product.ProductQuantity - quantityNeeded;
+            db.SaveChanges();
+           
             return View();
+        } */
+
+        //show product details page
+
+        public ViewResult ShowProductDetails(int id)
+        {
+            return View(ShowAllProductDetails(id));
+        }
+        public ShowProductDetailsView ShowAllProductDetails(int id)
+        {
+            ShowProductDetailsView product = new ShowProductDetailsView(); 
+            product.product = db.Products.Include(e => e.Category).Include(s => s.Seller).Where(p => p.Id == id).First();
+            product.reviews = displayReviews(id);
+            return (product);
         }
 
+
+        [HttpPost]
+        public IActionResult GetReview(Product product ,Review review)
+        {
+            if (!Authentication.IsLoggedIn)
+                return Authentication.CheckAuthAndRouteLogin(this);
+            var user = Authentication.LoggedInUser;
+
+            ShowProductDetailsView rev  = new ShowProductDetailsView();
+
+            //rev.review = new Review();
+            //rev.review.Description = review.Description;
+            //rev.review.rate = review.rate;
+            review.ProductId = product.Id;
+            review.UserId = user.Id;
+            review.Date = DateTime.Now;
+            //rev.review.ProductId = product.Id;
+            
+            db.Reviews.Add(review);
+            db.SaveChanges();
+            return Redirect("/");
+        }
+        [HttpGet]
+        public IEnumerable<Review> displayReviews(int id)
+        {
+            ShowProductDetailsView rev = new ShowProductDetailsView();
+            rev.reviews = db.Reviews.Include(u => u.User).Where(p => p.ProductId == id);
+            return rev.reviews;
+        } 
         public IActionResult Index()
         {
             return View();
