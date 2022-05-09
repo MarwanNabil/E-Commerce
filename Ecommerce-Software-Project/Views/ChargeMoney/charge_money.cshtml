@@ -1,0 +1,67 @@
+﻿
+<h1>Charge Money</h1>
+ <hr />
+
+<body>
+
+
+  <div class="d-flex justify-content-center">
+     <div class="BlackBox">
+
+
+@using (Html.BeginForm("AddMoney", "ChargeMoney"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="d-flex justify-content-center" id="form">
+      <div class="form-group" >
+        <h3> Enter the amount of money you want to charge it </h3>
+        <input type="text" class="form-control" name="money">
+        <button type="submit" class="btn btn-primary"> Add </button>
+      </div>
+    </div>
+  
+}
+<!--
+        <span class="field-validation-valid text-danger" 
+                data-valmsg-for="money" 
+                data-valmsg-replace="true">
+                The StudentName field is required.
+        </span>
+        -->
+
+
+  </div> 
+</body>
+
+
+
+
+
+
+<style>
+ body{
+    background-image: url('../images/money3.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.BlackBox{
+    background-color:black;
+    width:1000px;
+    height:395px;
+    opacity:0.8;
+    justify-content: center;
+}
+h3{
+    color:white;
+}
+#form{
+    margin-top:120px
+}
+button{
+    width : 630px;
+    margin-top:10px;
+}
+
+</style>

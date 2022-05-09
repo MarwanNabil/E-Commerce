@@ -111,7 +111,7 @@ namespace Ecommerce_Software_Project.Controllers
 
         public IActionResult DisplaySpecialProducts(int id)
         {
-            List<Product> products = db.Products.Where(p => p.CategoryID == id ).ToList();
+            List<Product> products = db.Products.Include(e => e.Category).Include(s => s.Seller).Where(p => p.CategoryID == id ).ToList();
 
             if (products == null)
                 return Content("null");
