@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Admin Page";
+}
+<style>
+
+    #cover {
+        border: 1px solid black;
+        padding: 25px;
+        background-repeat: no-repeat;
+        height: 400px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+
+    #board {
+        width: 350px;
+        height: 350px;
+        border-radius: 5px;
+        display: inline-block;
+        padding: 50px;
+    }
+
+    #icon {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+</style>
+
+<div id="cover">
+    <img src="~/gears_motor.gif" style="margin-left: auto; margin-right: auto; display: block;" />
+    <h1 style="text-align: center;">Admin Panel</h1>
+</div>
+
+
+<div id="board" style="background-color: rgb(232 , 35 , 21);">
+    <a href="/Admin/ShowSellers">
+        <img id="icon" src="~/customer.png" style="width:200px; height:200px;" />
+    </a>
+    <h1 style="text-align: center;">Sellers</h1>
+</div>
+
+<div id="board" style="background-color: rgb(21, 232, 60);">
+    <a href="/Admin/ShowProducts">
+        <img id="icon" src="~/product.png" style="width:200px; height:200px;" />
+    </a>
+    <h1 style="text-align: center;">Products</h1>
+</div>
+
+<div id="board" style="background-color: rgb(21, 123, 232);">
+    <a href="/Admin/ShowCategories">
+        <img id="icon" src="~/subfolder.png" style="width:200px; height:200px;" />
+    </a>
+    <h1 style="text-align: center;">Categories</h1>
+</div>

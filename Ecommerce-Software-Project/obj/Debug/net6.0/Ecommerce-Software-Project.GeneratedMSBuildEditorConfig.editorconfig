@@ -15,6 +15,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Projects\E-Commerce\repo\E-Commerce\Ecommerce-Software-Project
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Admin/ShowCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd0NhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Admin/ShowProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Admin/ShowSellers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd1NlbGxlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Auth/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

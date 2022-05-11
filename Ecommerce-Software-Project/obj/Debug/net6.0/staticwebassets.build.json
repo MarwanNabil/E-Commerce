@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wtDR/n9oF7QnBPvqx98yqGiZAnHrQ+D7Xe9C6CWPIHQ=",
+  "Hash": "Q+dC19OFQWTzU1mZ0CB7i7yf8jq0Vn8DJE3jGLEOr6I=",
   "Source": "Ecommerce-Software-Project",
   "BasePath": "_content/Ecommerce-Software-Project",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\customer.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "customer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer.png"
+    },
+    {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\favicon.ico",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\gears_motor.gif",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "gears_motor.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gears_motor.gif"
     },
     {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\03204c8c-c919-4258-bad4-932c27a93b57KayO_Valorant_4K_Phone_iPhone_Wallp.jpeg",
@@ -236,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\2c74b262-99e6-4d5d-9d48-57d71876679bFRIt18WWYAASZny.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\31d563d0-9887-4d88-9931-377798c7ae2cimage-jpg-t-1590534666-size-Large.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/31d563d0-9887-4d88-9931-377798c7ae2cimage-jpg-t-1590534666-size-Large.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\31d563d0-9887-4d88-9931-377798c7ae2cimage-jpg-t-1590534666-size-Large.jpg"
     },
     {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg",
@@ -406,6 +457,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\81f2ea9a-ad46-40f2-b376-7e88deec46e8unknown.png"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\872b9468-e191-4772-b440-9c0f8ab3d0e9image-jpg-t-1590534666-size-Large.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/872b9468-e191-4772-b440-9c0f8ab3d0e9image-jpg-t-1590534666-size-Large.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\872b9468-e191-4772-b440-9c0f8ab3d0e9image-jpg-t-1590534666-size-Large.jpg"
     },
     {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\87581ab8-ff8d-45b3-9dfb-7a1d49a12c1fFRIt18WWYAASZny.jpg",
@@ -1596,6 +1664,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\product.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "product.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\product.png"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\subfolder.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "subfolder.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\subfolder.png"
     }
   ]
 }
