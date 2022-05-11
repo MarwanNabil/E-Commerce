@@ -11,7 +11,7 @@ public class Product
 
     [Required]
     public int CategoryID { get; set; }
-    public virtual Category? Category { get; set; }
+    public virtual Category Category { get; set; }
     [Required]
     public string? ProductName { get; set; }
     [ForeignKey("Seller")]
@@ -19,15 +19,15 @@ public class Product
     public virtual User? Seller { get; set; }
     [Required]
     [DataType(DataType.Currency)]
-    public float? ProductPrice { get; set; }
-    public DateTime? ProductAddedDate { get; set; }
+    public float ProductPrice { get; set; }
+    public DateTime ProductAddedDate { get; set; }
     [Required]
     public bool ProductWarranty { get; set; }
     [Required]
-    public string? ProductDescription { get; set; }
+    public string ProductDescription { get; set; }
     [Required]
     public int? ProductQuantity { get; set; }
-    public string? ProductImages { get; set; }
+    public string ProductImages { get; set; }
     public bool IsAccepted { get; set; } = false;
     public virtual ICollection<Review>? Reviews { get; set; }
     public virtual ICollection<FavouriteProduct>? FavouriteProducts { get; set; }

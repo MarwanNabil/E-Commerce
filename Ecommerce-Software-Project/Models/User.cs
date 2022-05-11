@@ -22,7 +22,7 @@ public class User
     [Required]
     public int? Age { get; set; }
     public int Money { get; set; } 
-    public virtual ICollection<Product>? Products { get; set; }
-    public virtual ICollection<Review>? Reviews { get; set; }
-    public virtual ICollection<FavouriteProduct>? FavouriteProducts { get; set; }
+    public virtual ICollection<Product> Products { get; set; }
+    public virtual ICollection<Review> Reviews { get; set; }
+    public virtual ICollection<FavouriteProduct> FavouriteProducts { get; set; }
 }
