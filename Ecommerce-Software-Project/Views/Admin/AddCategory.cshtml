@@ -1,15 +1,13 @@
 ﻿@model Ecommerce_Software_Project.Models.Category;
+
 @{
     ViewData["Title"] = "AddCategory";
-   // Layout = "~/Views/Product/GetAllProductOfShop.cshtml";
 }
 
 <h1>AddCategory</h1>
- <hr />
+<hr />
 
-
-
-@using (Html.BeginForm("Save", "Category"))
+@using (Html.BeginForm("SaveCategory", "Admin"))
 {
     @Html.AntiForgeryToken()
 
@@ -19,8 +17,8 @@
         @Html.TextBoxFor(m  => m.CategoryName , new {@class = "form-control"} )
         @Html.ValidationMessageFor(m => m.CategoryName ,null , new{@class = "text-danger"})
     </div>
-  
-    
+
+
     <button type="submit" class="btn btn-primary" style="margin: 8px"> Save </button>
 }
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q+dC19OFQWTzU1mZ0CB7i7yf8jq0Vn8DJE3jGLEOr6I=",
+  "Hash": "V9fzANeJ+3ppmUgpZO0DTpuGxikEhScxpxxkRQAqQBM=",
   "Source": "Ecommerce-Software-Project",
   "BasePath": "_content/Ecommerce-Software-Project",
   "Mode": "Default",
@@ -185,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\1d3ac5a6-3f5b-40e8-aa33-993dc40329b52a39e9ca-0dae-40b7-813f-6bf8bdf63052.jpeg"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1f67186d-f483-4c13-9d08-ca8a74ae135fcotton-tshirt.d306f9b.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/1f67186d-f483-4c13-9d08-ca8a74ae135fcotton-tshirt.d306f9b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1f67186d-f483-4c13-9d08-ca8a74ae135fcotton-tshirt.d306f9b.jpg"
     },
     {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1f87595e-ca4a-4a32-8f9d-2e6d33f6fb572-post.png",
@@ -661,6 +678,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\e27265f4-fdf3-4ad4-b488-ef66ab3390aaecommerce-product-images-laptop.webp"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg"
     },
     {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f56a21cd-1b99-43fc-8332-3de932619df3unknown.png",

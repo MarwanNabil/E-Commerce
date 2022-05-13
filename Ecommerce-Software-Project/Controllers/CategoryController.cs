@@ -9,7 +9,7 @@ namespace Ecommerce_Software_Project.Controllers
         {
             db = DBconnection;
         }
-        public List<Category>  getCategory()
+        public List<Category> getCategory()
         {
             List<Category> category = db.Categories.ToList();
             return category;
@@ -19,28 +19,6 @@ namespace Ecommerce_Software_Project.Controllers
             List<Category> category = getCategory();
             return View(category);
         }
-        public IActionResult AddCategory()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult Save(Models.Category ca)
-        {
-
-            if (!ModelState.IsValid)
-            {
-                return View("AddCategory",ca);
-            }
-            var category = new Category
-            {
-                CategoryName = ca.CategoryName
-            };
-            db.Categories.Add(category);
-            db.SaveChanges();
-         
-            return RedirectToAction("DisplayAllCategory");
-        }
+        
     }
 }

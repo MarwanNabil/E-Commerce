@@ -1,5 +1,11 @@
 ﻿@model Ecommerce_Software_Project.ViewModels.ShowProductDetailsView
 
+<br />
+<a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Addproduct">
+    <div class="btn btn-primary">Add Product</div>
+</a>
+<br />
+
 <div class="container">
     <h5 class="display-4">@Model.product.Category.CategoryName</h5>
 
@@ -65,23 +71,31 @@
         @foreach (var item in Model.reviews)
         {
             <input type="hidden" asp-for="product.Id" />
-            <div class = "row">
+            <div class="row">
                 <div class="mx-2 w-100">
                     <div class="d-flex">
                         <img src="@item.User.UserImageUrl" class="rounded-circle" style="width:40px;height:40px;" />
-                        <h5 class="fw-bold"  >@item.User.Name</h5>
+                        <h5 class="fw-bold">@item.User.Name</h5>
                         <p>@item.Date</p>
                     </div>
-                    <div style="box-sizing:content-box;" class = "col-md-6">
+                    <div style="box-sizing:content-box;" class="col-md-6">
                         <p class="m-0">@item.Description</p>
                     </div>
-                    <div class = "col-md-12">
+                    <div class="col-md-12">
                         <p class="fw-bold"> rating: @item.rate/5  </p>
                     </div>
                 </div>
             </div>
-            <br /><br /><br /><br /><br />
-            
+            <br />
+
+            <br />
+
+            <br />
+
+            <br />
+
+            <br />
+
 
         }
 

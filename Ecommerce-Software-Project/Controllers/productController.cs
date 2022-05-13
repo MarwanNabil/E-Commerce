@@ -1,16 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Linq;
 
 namespace Ecommerce_Software_Project.Controllers
 {
     public class ProductController : Controller
     {
-        private ApplicationDbContext db;
+
+        static bool did = false; 
+        private static ApplicationDbContext db;
         private readonly IWebHostEnvironment Ih;
 
         public ProductController(ApplicationDbContext _db, IWebHostEnvironment _Ih)
         {
+            did = true;
             db = _db;
+            List<Category> A = db.Categories.Where(r => true).ToList();
             Ih = _Ih;
         }
 
@@ -22,7 +27,7 @@ namespace Ecommerce_Software_Project.Controllers
                 return Authentication.CheckAuthAndRouteLogin(this);
 
             AddProductView prodView = new AddProductView();
-            prodView.categories = db.Categories.Select(n => new SelectListItem { Value = n.Id.ToString(), Text = n.CategoryName}).ToList();
+            prodView.categories = db.Categories.Select(n => new SelectListItem { Value = n.Id.ToString(), Text = n.CategoryName }).ToList();
             return View(prodView);
         }
 
@@ -35,7 +40,7 @@ namespace Ecommerce_Software_Project.Controllers
             var user = Authentication.LoggedInUser;
             //var userInDb = db.Users.Where(x => x.Id == user.Id);
 
-            if (!ModelState.IsValid || productImage == null || user == null)
+            if (productImage == null || user == null)
             {
                 TempData[Toaster.Error] = "Please Enter The Product's Info";
                 return Addproduct();
@@ -52,7 +57,7 @@ namespace Ecommerce_Software_Project.Controllers
 
             //put data in db
             productForm.product.ProductImages = imagePath;
-            productForm.product.SellerId =user.Id;
+            productForm.product.SellerId = user.Id;
             productForm.product.ProductAddedDate = DateTime.Now;
             productForm.product.CategoryID = category.Id;
 
@@ -88,11 +93,11 @@ namespace Ecommerce_Software_Project.Controllers
         }
 
         [HttpPost]
-        public IActionResult GetAllProductOfShop(string searchProduct,string categoryValue)
+        public IActionResult GetAllProductOfShop(string searchProduct, string categoryValue)
         {
             return View(GetAllProductShop(searchProduct, categoryValue));
         }
-        public IEnumerable<Product> GetAllProductShop(string searchProduct,string categoryValue)
+        public IEnumerable<Product> GetAllProductShop(string searchProduct, string categoryValue)
         {
             var prods = db.Products.Include(e => e.Category).Include(s => s.Seller).Where(e => e.ProductName.Contains(searchProduct) && e.Category.CategoryName.Contains(categoryValue)).Include(u => u.Seller);
             return prods;
@@ -116,7 +121,7 @@ namespace Ecommerce_Software_Project.Controllers
         }
         public ShowProductDetailsView ShowAllProductDetails(int id)
         {
-            ShowProductDetailsView product = new ShowProductDetailsView(); 
+            ShowProductDetailsView product = new ShowProductDetailsView();
             product.product = db.Products.Include(e => e.Category).Include(s => s.Seller).Where(p => p.Id == id).First();
             product.reviews = displayReviews(id);
             return (product);
@@ -124,13 +129,13 @@ namespace Ecommerce_Software_Project.Controllers
 
 
         [HttpPost]
-        public IActionResult GetReview(Product product ,Review review)
+        public IActionResult GetReview(Product product, Review review)
         {
             if (!Authentication.IsLoggedIn)
                 return Authentication.CheckAuthAndRouteLogin(this);
             var user = Authentication.LoggedInUser;
 
-            ShowProductDetailsView rev  = new ShowProductDetailsView();
+            ShowProductDetailsView rev = new ShowProductDetailsView();
 
             //rev.review = new Review();
             //rev.review.Description = review.Description;
@@ -139,7 +144,7 @@ namespace Ecommerce_Software_Project.Controllers
             review.UserId = user.Id;
             review.Date = DateTime.Now;
             //rev.review.ProductId = product.Id;
-            
+
             db.Reviews.Add(review);
             db.SaveChanges();
             return Redirect("/");
@@ -150,20 +155,18 @@ namespace Ecommerce_Software_Project.Controllers
             ShowProductDetailsView rev = new ShowProductDetailsView();
             rev.reviews = db.Reviews.Include(u => u.User).Where(p => p.ProductId == id);
             return rev.reviews;
-        } 
+        }
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult DisplaySpecialProducts(int id)
+        public IActionResult DisplayProductsViaCategory(int id)
         {
-            List<Product> products = db.Products.Where(p => p.CategoryID == id ).ToList();
-
-            if (products == null)
-                return Content("null");
-            else  
-                return View("GetAllProductOfShop", products);
+            IEnumerable<Product> tmp = db.Products.Include(r => r.Seller).Include(r => r.Category).Where(r => r.CategoryID == id);
+             
+            //IEnumerable<Product> products = db.Products;
+            return View("~/Views/Product/GetAllProductOfShop.cshtml", tmp);
         }
     }
 }

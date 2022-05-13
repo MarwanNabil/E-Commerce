@@ -21,7 +21,6 @@ public class Product
     [DataType(DataType.Currency)]
     public float ProductPrice { get; set; }
     public DateTime ProductAddedDate { get; set; }
-    [Required]
     public bool ProductWarranty { get; set; }
     [Required]
     public string ProductDescription { get; set; }

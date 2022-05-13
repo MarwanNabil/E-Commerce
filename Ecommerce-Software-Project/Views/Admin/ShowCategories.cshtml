@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Ecommerce_Software_Project.Models.Category>
+﻿@model IEnumerable<Category>
 
 @{
     ViewData["Title"] = "Categories";
@@ -8,7 +8,7 @@
 <h1>Show Categories</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a href="@Url.Action("AddCategory")" class="btn btn-primary"> Create New </a>
 </p>
 <table class="table">
     <thead>
@@ -27,8 +27,8 @@
                     @Html.DisplayFor(modelItem => item.CategoryName)
                 </td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@item.Id">View</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <a href="/Admin/ViewCategory/@item.Id">View</a> |
+                    <a href="/Admin/DeleteCategory/@item.Id">Delete</a>
                 </td>
             </tr>
         }

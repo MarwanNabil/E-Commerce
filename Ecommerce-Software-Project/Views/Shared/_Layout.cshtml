@@ -7,7 +7,7 @@
     <title>@ViewData["Title"] - Ecommerce_Software_Project</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css"/>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
     <link rel="stylesheet" href="~/Ecommerce_Software_Project.styles.css" asp-append-version="true" />
 </head>
 <body>
@@ -25,29 +25,23 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Addproduct">Add Product</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="DisplayAllCategory">Categorys</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="DisplayAllCategory">Categories</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="GetAllProductOfShop">Shop</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="SearchUsers">Sellers</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="SearchUsers">Users</a>
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <partial name="_Authentication"/>
+                    <partial name="_Authentication" />
                 </div>
             </div>
         </nav>
     </header>
-    <partial name="_Notification"/>
+    <partial name="_Notification" />
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
