@@ -1,12 +1,42 @@
-﻿@model Ecommerce_Software_Project.ViewModels.AddProductView
-<h1>Product</h1>
+﻿@model IEnumerable<Ecommerce_Software_Project.Models.Product>
 
-<div class = "align-content-center">
-    <h1>Computer</h1>
-    <img src=~/images/2c74b262-99e6-4d5d-9d48-57d71876679bFRIt18WWYAASZny.jpg/>
-    <h2>Seller: Ahmed</h2>
-    <h2>Price: 20</h2>
-    <h2>Quanitity: 52</h2>
-    <h2>Date: 20/5</h2>
-    <p>Description: lorem is sinsm sooma hanu ska mkk lkklsda lksdjaklfj slksd</p>
+
+
+<h1>Products</h1>
+
+<br />
+<br />
+
+<div class="container">
+
+    @foreach (var item in Model)
+    {
+        <div class="container">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">@item.ProductName</h3>
+                    <div class="row">
+                        <div class="col-lg-5 col-md-5 col-sm-6">
+                            <div class="white-box text-center">
+                                <img src="@item.ProductImages" class="img-fluid">
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-md-7 col-sm-6">
+                            <h3>Category: <small>@item.Category.CategoryName</small></h3>
+                            <h3>Quantity: <small>@item.ProductQuantity</small></h3>
+                            <h3>Date: <small>@item.ProductAddedDate</small></h3>
+                            <h3>IsUsed: <small>@(item.IsUsed?"Yes":"No")</small></h3>
+                            <h3>Product Warranty: <small>@(item.ProductWarranty?"Yes":"No")</small></h3>
+                            <h3 class="box-title mt-2">Product description</h3>
+                            <p>@item.ProductDescription</p>
+                            <h3 class="mt-5">@item.ProductPrice $</h3>
+                            <button class="btn btn-primary btn-rounded">Buy Now</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    }
+
 </div>

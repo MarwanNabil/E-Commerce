@@ -10,14 +10,6 @@
 {
     <div class="container">
         <!-- ListView -->
-    <input list="categories" name="categoryValue" class="col-sm-6 custom-select custom-select-sm">
-        <datalist id="categories">
-            @foreach (var prod in Model)
-            {
-                <option value="@prod.Category.CategoryName">@prod.Category.CategoryName</option>
-            }
-        </datalist>
-        <!-- Search -->
     <input placeholder="Search for Product.." name="searchProduct" />
         <button class="btn btn-info" type="submit">Search</button>
     </div>

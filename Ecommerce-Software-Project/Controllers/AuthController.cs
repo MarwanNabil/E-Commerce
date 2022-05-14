@@ -34,6 +34,12 @@ public class AuthController : Controller
         TempData[Toaster.Success] = "You have logged in";
         return RedirectToAction("Index", "Home");
     }
+    public IActionResult LogOut()
+    {
+        Services.Authentication.LogUserOut();
+        return RedirectToAction("Index", "Home");
+    }
+
     #endregion
     #region Register
     [HttpGet]
@@ -46,7 +52,7 @@ public class AuthController : Controller
     [ValidateAntiForgeryToken]
     public IActionResult Register(User userForm, IFormFile userImage)
     {
-        if (!ModelState.IsValid || userImage == null || userForm == null)
+        if (userImage == null || userForm == null)
         {
             TempData[Toaster.Error] = "Please Enter The Your Data";
             return View();

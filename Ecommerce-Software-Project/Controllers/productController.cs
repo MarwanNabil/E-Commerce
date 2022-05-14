@@ -69,10 +69,9 @@ namespace Ecommerce_Software_Project.Controllers
         }
 
         //get product of User
-        public IActionResult GetProductOfUser()
+        public IActionResult GetProductsOfUser(int id)
         {
-            var user = Authentication.LoggedInUser;
-            return View(GetProductsViaUserID(user.Id));
+            return View("GetProductsViaUser" , GetProductsViaUserID(id));
         }
 
         public IEnumerable<Product> GetProductsViaUserID(int userID)
@@ -117,16 +116,12 @@ namespace Ecommerce_Software_Project.Controllers
 
         public ViewResult ShowProductDetails(int id)
         {
-            return View(ShowAllProductDetails(id));
-        }
-        public ShowProductDetailsView ShowAllProductDetails(int id)
-        {
             ShowProductDetailsView product = new ShowProductDetailsView();
             product.product = db.Products.Include(e => e.Category).Include(s => s.Seller).Where(p => p.Id == id).First();
             product.reviews = displayReviews(id);
-            return (product);
-        }
 
+            return View("ShowProductDetails", product);
+        }
 
         [HttpPost]
         public IActionResult GetReview(Product product, Review review)
@@ -137,13 +132,9 @@ namespace Ecommerce_Software_Project.Controllers
 
             ShowProductDetailsView rev = new ShowProductDetailsView();
 
-            //rev.review = new Review();
-            //rev.review.Description = review.Description;
-            //rev.review.rate = review.rate;
             review.ProductId = product.Id;
             review.UserId = user.Id;
             review.Date = DateTime.Now;
-            //rev.review.ProductId = product.Id;
 
             db.Reviews.Add(review);
             db.SaveChanges();
@@ -156,6 +147,37 @@ namespace Ecommerce_Software_Project.Controllers
             rev.reviews = db.Reviews.Include(u => u.User).Where(p => p.ProductId == id);
             return rev.reviews;
         }
+
+        public IActionResult DeleteProduct(int id)
+        {
+            if (!Authentication.IsLoggedIn)
+                return Authentication.CheckAuthAndRouteLogin(this);
+            var user = Authentication.LoggedInUser;
+            try
+            {
+
+                Product targetProduct = db.Products.Where(r => r.Id == id).Include(r => r.Reviews).First();
+                foreach(Review r in targetProduct.Reviews)
+                {
+                    db.Reviews.Remove(r);   
+                }
+                db.Products.Remove(targetProduct);
+                db.SaveChanges(true);
+
+
+                TempData[Toaster.Success] = "Deleted the product successfully.";
+            }
+            catch (Exception E)
+            {
+                TempData[Toaster.Warning] = E.Message;
+            }
+
+            if (user.Name == "Admin")
+                return View("~/Views/Admin/ShowProducts.cshtml" , db.Products.Include(r => r.Seller));
+
+            return View("~/Views/Product/GetAllProductOfShop.cshtml" , db.Products.Include(r => r.Seller));
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -167,6 +189,45 @@ namespace Ecommerce_Software_Project.Controllers
              
             //IEnumerable<Product> products = db.Products;
             return View("~/Views/Product/GetAllProductOfShop.cshtml", tmp);
+        }
+
+        public IActionResult BuyProduct(int ProductId , int Quantity)
+        {
+            if (!Authentication.IsLoggedIn)
+                return Authentication.CheckAuthAndRouteLogin(this);
+            var user = Authentication.LoggedInUser;
+
+            Product tmpP = db.Products.Where(r => r.Id == ProductId).First();
+
+            if (tmpP.ProductQuantity < Quantity || tmpP.ProductPrice * Quantity > user.Money)
+            {
+
+                if (tmpP.ProductPrice * Quantity > user.Money)
+                {
+                    TempData[Toaster.Warning] = "Make Sure you have enough money!";
+                }
+                else
+                {
+                    TempData[Toaster.Warning] = "Please choose less quantity than you did!";
+                }
+
+            }
+            else
+            {
+                TempData[Toaster.Success] = "Queued your transaction!" +
+                    "One of our representative will call you soon!";
+                
+                user.Money -= (int)Math.Round(tmpP.ProductPrice * Quantity);
+                db.Users.Update(user);
+
+                tmpP.ProductQuantity -= Quantity;
+                db.Products.Update(tmpP);
+
+                db.SaveChanges();
+            }
+
+
+            return this.ShowProductDetails(ProductId);
         }
     }
 }

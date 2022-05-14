@@ -13,6 +13,12 @@ public class Authentication
         LoggedInUser = loggedInUser;
     }
 
+    public static void LogUserOut()
+    {
+        LoggedInUser = null; 
+    }
+
+
     public static IActionResult CheckAuthAndRouteLogin(object controllerObj)
     {
         if (!IsLoggedIn)

@@ -1,23 +1,21 @@
 ﻿@model IEnumerable<Ecommerce_Software_Project.Models.User>
 
 @{
-    ViewData["Title"] = "ShowSellers";
+    ViewData["Title"] = "Show Sellers";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h1>ShowSellers</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a href="@Url.Action("PurchaseMoney")" class="btn btn-success"> Add Money </a>
 </p>
+
 <table class="table">
     <thead>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UserImageUrl)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Email)
@@ -50,9 +48,6 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.UserImageUrl)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
@@ -74,9 +69,8 @@
                 @Html.DisplayFor(modelItem => item.Money)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a href="~/User/ProfileWithId/@item.Id">Details</a> |
+                <a href="~/User/DeleteUser/@item.Id">Delete</a>
             </td>
         </tr>
 }

@@ -23,6 +23,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Admin/PurchaseMoney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHVyY2hhc2VNb25leS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Admin/ShowCategories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd0NhdGVnb3JpZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -61,10 +65,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Product/GetAllProductOfShop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRBbGxQcm9kdWN0T2ZTaG9wLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Product/GetProductOfUser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0T2ZVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/E-Commerce/repo/E-Commerce/Ecommerce-Software-Project/Views/Product/GetProductsViaUser.cshtml]

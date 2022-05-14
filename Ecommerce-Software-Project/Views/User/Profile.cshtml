@@ -31,7 +31,7 @@
         @foreach (var product in @Model.Products)
         {
             <div class="col-3 m-2 btn-outline-light">
-                <img src="@product.ProductImages" class="img-fluid" style="object-fit:cover">
+                <img src="@product.ProductImages" href="~/Product/ShowProductDetails/@product.Id" class="img-fluid">
                 <ul>
                     <li>Name: @product.ProductName</li>
                     <li>Price: @product.ProductPrice</li>

@@ -4,29 +4,38 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>SearchUsers</h1>
+<h1>Search About the seller.</h1>
 
 <div class="container">
     <div>
         <form asp-action="SearchUsersWithString" class="input-group mb-3">
-          <input type="text" class="form-control" placeholder="Search For Name..." name="searchName">
-          <button class="btn btn-primary" type="submit">Search</button>
+            <input type="text" class="form-control" placeholder="Search For Name..." name="searchName">
+            <button class="btn btn-primary" type="submit">Search</button>
         </form>
     </div>
-    <div class="row">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
 
-    @foreach (var user in Model)
-    {
-        <div class="col-3 m-2 btn-outline-light">
-            <img src="@user.UserImageUrl" class="img-fluid" style="object-fit:cover">
-            <ul>
-                <li>Name: @user.Name</li>
-                <li>Email: @user.Email</li>
-                <li>Phone Number: @user.phoneNumber</li>
-                <li>Country: @user.Country</li>
-                <li>Address: @user.address</li>
-            </ul>
-        </div>
-    }
+        @foreach (var user in Model)
+        {
+            <div class="col">
+                <div class="card h-100">
+                    <a href="~/Product/GetProductsOfUser/@user.Id">
+                        <img src="@user.UserImageUrl" class="card-img-top" alt="...">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">@user.Name</h5>
+                        <p class="card-text">@user.Email</p>
+                        <p class="card-text">@user.Country</p>
+                        <p class="card-text">@user.address</p>
+                    </div>
+                    <div class="card-footer btn-group">
+                        <button class="btn btn-danger mx-1" style="float:left;"> Sold : @user.Products.Count() </button>
+                        <button class="btn btn-success mx-1" style="float:right;"> Phone : @user.phoneNumber </button>
+                    </div>
+                </div>
+
+            </div>
+
+        }
     </div>
 </div>

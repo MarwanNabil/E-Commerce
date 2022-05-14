@@ -13,6 +13,8 @@ namespace Ecommerce_Software_Project.Controllers
             Ih = _Ih;
         }
 
+
+
         public IActionResult Index()
         {
             return View();
@@ -36,6 +38,48 @@ namespace Ecommerce_Software_Project.Controllers
                 product.Category = db.Categories.SingleOrDefault(c => c.Id == product.CategoryID);
             }
             return View(Authentication.LoggedInUser);
+        }
+
+        public IActionResult DeleteUser(int id)
+        {
+            if (!Authentication.IsLoggedIn)
+                return Authentication.CheckAuthAndRouteLogin(this);
+
+            var user = Authentication.LoggedInUser;
+
+            try
+            {
+                User target = db.Users.Where(r => r.Id == id).First();
+
+                if (user.Name != "Admin")
+                    throw new Exception("Not Authorized!");
+                if (target.Name == "Admin")
+                    throw new Exception("You can't Delete An Admin!");
+
+                User targetUser = db.Users.Where(r => r.Id == id).Include(r => r.Products).First();
+
+                foreach(var product in targetUser.Products)
+                {
+                        Product p = db.Products.Where(r => r.Id == product.Id).Include(r => r.Reviews).First();
+                        foreach (Review r in product.Reviews)
+                        {
+                            db.Reviews.Remove(r);
+                        }
+                        db.Products.Remove(product);
+                }
+
+                db.Users.Remove(target);
+                db.SaveChanges();
+
+                TempData[Toaster.Success] = "Deleted Successfully.";
+
+            } catch(Exception e)
+            {
+                TempData[Toaster.Warning] = e.Message;
+            }
+
+
+            return View("~/Views/Home/Index.cshtml");
         }
 
         public IActionResult ProfileWithId(int id)

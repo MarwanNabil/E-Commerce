@@ -1,106 +1,138 @@
 ﻿@model Ecommerce_Software_Project.ViewModels.ShowProductDetailsView
 
-<br />
-<a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Addproduct">
-    <div class="btn btn-primary">Add Product</div>
-</a>
-<br />
+<h5 class="display-4">@Model.product.Category.CategoryName</h5>
 
-<div class="container">
-    <h5 class="display-4">@Model.product.Category.CategoryName</h5>
-
-    <div class="row">
-        <div class="col-md-6">
-            <img class="d-block w-100" src="@Model.product.ProductImages" />
-        </div>
-        <div class="col-md-6">
-            <div class="row">
-                <div class="col-md-12">
-                    <h1>@Model.product.ProductName</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 text-primary">
-                    <span class="label label-primary">Seller: </span>
-                    <span class="monospaced">@Model.product.Seller.Name</span>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="description">
-                        @Model.product.ProductDescription
-                    </p>
-                </div>
-            </div>
-
-            <hr />
-            <ul class="list-group">
-                <li class="list-group-item"><span class="font-weight-bold">Is used: </span> @(Model.product.IsUsed?"Yes":"No")</li>
-                <li class="list-group-item"><span class="font-weight-bold">Warranty: </span> @(Model.product.ProductWarranty?"Yes":"No")</li>
-                <li class="list-group-item"><span class="font-weight-bold">Quantity: </span> @Model.product.ProductQuantity</li>
-                <li class="list-group-item"><span class="font-weight-bold">Price: </span> $@Model.product.ProductPrice </li>
-            </ul>
-            <hr />
-            <button class="btn btn-primary btn-rounded">Buy Now</button>
-        </div>
-
-
+<div class="row">
+    <div class="col-md-6">
+        <img class="d-block w-100" src="@Model.product.ProductImages" />
+    </div>
+    <div class="col-md-6">
         <div class="row">
-            <div class="col-md-6">
-                <form method="post" asp-action="GetReview" enctype="multipart/form-data">
-                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-                    <input type="hidden" asp-for="product.Id" />
-                    <div class="form-group">
-                        <label asp-for="review.Description" class="control-label">Leave your review:</label>
-                        <input type="text" id="review.Description" asp-for="review.Description" class="form-control" />
-                        <span asp-validation-for="review.Description" class="text-danger"></span>
-                    </div>
-                    <div class="form-group">
-                        <label asp-for="review.rate" class="control-label"></label>
-                        <input asp-for="review.rate" class="form-control" type="number" min="1" max="5" />
-                        <span asp-validation-for="review.rate" class="text-danger"></span>
-                    </div>
-                    <div class="form-group">
-                        <input type="submit" value="Add" class="btn btn-primary" />
-                    </div>
-                </form>
+            <div class="col-md-12">
+                <h1>@Model.product.ProductName</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-primary">
+                <span class="label label-primary">Seller: </span>
+                <span class="monospaced">@Model.product.Seller.Name</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <p class="description">
+                    @Model.product.ProductDescription
+                </p>
             </div>
         </div>
 
         <hr />
-        @foreach (var item in Model.reviews)
+        <ul class="list-group">
+            <li class="list-group-item"><span class="font-weight-bold">Is used: </span> @(Model.product.IsUsed?"Yes":"No")</li>
+            <li class="list-group-item"><span class="font-weight-bold">Warranty: </span> @(Model.product.ProductWarranty?"Yes":"No")</li>
+            <li class="list-group-item"><span class="font-weight-bold">Quantity: </span> @Model.product.ProductQuantity</li>
+            <li class="list-group-item"><span class="font-weight-bold">Price: </span> $@Model.product.ProductPrice </li>
+        </ul>
+        <hr />
+        @using (Html.BeginForm("BuyProduct", "product"))
         {
-            <input type="hidden" asp-for="product.Id" />
-            <div class="row">
-                <div class="mx-2 w-100">
-                    <div class="d-flex">
-                        <img src="@item.User.UserImageUrl" class="rounded-circle" style="width:40px;height:40px;" />
-                        <h5 class="fw-bold">@item.User.Name</h5>
-                        <p>@item.Date</p>
-                    </div>
-                    <div style="box-sizing:content-box;" class="col-md-6">
-                        <p class="m-0">@item.Description</p>
-                    </div>
-                    <div class="col-md-12">
-                        <p class="fw-bold"> rating: @item.rate/5  </p>
-                    </div>
+            <input type="number" name="ProductId" value="@Model.product.Id" hidden />
+            <input type="number" name="Quantity" placeholder="Quantity" />
+            <button type="submit" class="btn btn-primary btn-rounded">Buy Now</button>
+        }
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <hr />
+    <br />
+    <br />
+    <br />
+
+    <div class="row">
+
+        <div class="col-md-5" style="float:left; margin-left:90px;">
+            <img src="~/rating.png" style="width:300px; height : auto;" />
+            <h2>People Reviews</h2>
+        </div>
+
+        <div class="col-md-6">
+            <br />
+            <h4>leave your empressions on the product honestly!</h4>
+            <br />
+            <form method="post" asp-action="GetReview" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="product.Id" />
+                <div class="form-group">
+                    <label asp-for="review.Description" class="control-label">Leave your review:</label>
+                    <input type="text" id="review.Description" asp-for="review.Description" class="form-control" />
+                    <span asp-validation-for="review.Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="review.rate" class="control-label"></label>
+                    <input asp-for="review.rate" class="form-control" type="number" min="1" max="5" />
+                    <span asp-validation-for="review.rate" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                    <input type="submit" value="Add" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+
+       
+
+        
+    </div>
+
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <hr />
+    <br />
+    <br />
+    <br />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .checked {
+            color: orange;
+        }
+    </style>
+    @foreach (var item in Model.reviews)
+    {
+        <div class="card">
+            <div class="card-body">
+                <img src="@item.User.UserImageUrl" class="rounded-circle" style="width:40px;height:40px; float:left" />
+                <h5 class="fw-bold" style="margin-left: 50px;">@item.User.Name</h5>
+                <p class="m-0">@item.Description</p>
+                <div style="float: right; margin-right:5px;">
+                    @{
+                        if (item.rate < 1)
+                            item.rate = 1;
+                        else if (item.rate > 5)
+                            item.rate = 5;
+                    }
+                    @for (int i = 1; i <= item.rate; i++)
+                    {
+                        <span class="fa fa-star checked"></span>
+                    }
+                    @for (int i = ((int)item.rate) + 1; i <= 5; i++)
+                    {
+                        <span class="fa fa-star"></span>
+                    }
                 </div>
             </div>
-            <br />
+        </div>
+        <br />
 
-            <br />
+    }
 
-            <br />
-
-            <br />
-
-            <br />
-
-
-        }
-
-    </div>
 </div>
-
-
-

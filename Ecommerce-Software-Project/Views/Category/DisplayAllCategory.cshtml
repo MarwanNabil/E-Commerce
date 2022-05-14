@@ -1,54 +1,55 @@
 ﻿@model IEnumerable<Category>
 
-<h1>view Ctegory</h1>
+<h1>View Category</h1>
 <hr />
 
-<div style= "margin : 13px; float :left;"> 
-    <a href="@Url.Action("AddCategory")" class="btn btn-primary"> Add New Category </a> 
-</div>
-
-<!-- <a asp-action="getAllProducts" class ="btn btn-primary">view Products</a> -->
 <div>
-    @foreach(var item in Model)
+    @foreach (var item in Model)
     {
         <div class="Categores">
-            <div style="font-size: 20px " > @Html.DisplayFor(modelitem => item.CategoryName) 
-            <div class="btn btn-primary" style=""> 
-              @Html.ActionLink("DisplayProduct","DisplaySpecialProducts","product",new{id = item.Id},new { @style="text-decoration: none;color: white" })
+            <div style="font-size: 20px ">
+                @Html.DisplayFor(modelitem => item.CategoryName)
+                <a href="~/Product/DisplayProductsViaCategory/@item.Id">
+                    <div class="btn btn-warning">
+                        View
+                    </div>
+                </a>
             </div>
-            </div>
-         </div>
+        </div>
     }
 </div>
 
 <style>
-   
-.Categores{
-    overflow :hidden;
-    margin :5px;
-    width :92%;
-    height :auto;
-    background-color: black;
-    color: white;
-    border-radius : 10%;
-    margin:30px auto;
-    justify-content : center;
-    padding :20px;
-}
-.item box{
-    list-style :none;
-    height :350px;
-    float : left;
-    margin :15px;
-    color: white;
-    font-size:25px;
-    transition :1s;
-}
-.item:hover{
-    transform:scale(1,1);
-    background-color: lightblue ;
-}
-.btn{
-    float: right;
-}
+
+    .Categores {
+        overflow: hidden;
+        margin: 5px;
+        width: 92%;
+        height: auto;
+        background-color: black;
+        color: white;
+        border-radius: 10%;
+        margin: 30px auto;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .item box {
+        list-style: none;
+        height: 350px;
+        float: left;
+        margin: 15px;
+        color: white;
+        font-size: 25px;
+        transition: 1s;
+    }
+
+    .item:hover {
+        transform: scale(1,1);
+        background-color: lightblue;
+    }
+
+    .btn {
+        float: right;
+    }
 </style>
