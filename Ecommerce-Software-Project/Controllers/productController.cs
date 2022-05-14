@@ -197,7 +197,7 @@ namespace Ecommerce_Software_Project.Controllers
                 return Authentication.CheckAuthAndRouteLogin(this);
             var user = Authentication.LoggedInUser;
 
-            Product tmpP = db.Products.Where(r => r.Id == ProductId).First();
+            Product tmpP = db.Products.Where(r => r.Id == ProductId).Include(r => r.Seller).First();
 
             if (tmpP.ProductQuantity < Quantity || tmpP.ProductPrice * Quantity > user.Money)
             {
@@ -219,6 +219,10 @@ namespace Ecommerce_Software_Project.Controllers
                 
                 user.Money -= (int)Math.Round(tmpP.ProductPrice * Quantity);
                 db.Users.Update(user);
+
+                User productOwner = tmpP.Seller;
+                productOwner.Money += (int)Math.Round(tmpP.ProductPrice * Quantity);
+                db.Users.Update(productOwner);
 
                 tmpP.ProductQuantity -= Quantity;
                 db.Products.Update(tmpP);

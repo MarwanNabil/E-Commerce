@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g0cXxB+HkpskW6c7SA9pSF+qTk6VvCCzWwuROjp5X1k=",
+  "Hash": "lMqxkyiRk+jB+ZLFkXmY1CzKN9oaT/prPoMytxMWKtM=",
   "Source": "Ecommerce-Software-Project",
   "BasePath": "_content/Ecommerce-Software-Project",
   "Mode": "Default",
@@ -544,6 +544,23 @@
       "OriginalItemSpec": "wwwroot\\images\\812a786c-eede-4ef8-a961-13c04d33b1ccIMG20210825173556.jpg"
     },
     {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\81526f46-21fb-46da-995e-3e28191651becotton-tshirt.d306f9b.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/81526f46-21fb-46da-995e-3e28191651becotton-tshirt.d306f9b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\81526f46-21fb-46da-995e-3e28191651becotton-tshirt.d306f9b.jpg"
+    },
+    {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\81f2ea9a-ad46-40f2-b376-7e88deec46e8unknown.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
@@ -797,6 +814,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f08558ec-38e2-4de6-97b5-d070cc905eabScreenshot 2022-04-22 013227.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/f08558ec-38e2-4de6-97b5-d070cc905eabScreenshot 2022-04-22 013227.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f08558ec-38e2-4de6-97b5-d070cc905eabScreenshot 2022-04-22 013227.png"
     },
     {
       "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f56a21cd-1b99-43fc-8332-3de932619df3unknown.png",
