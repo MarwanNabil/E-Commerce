@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lMqxkyiRk+jB+ZLFkXmY1CzKN9oaT/prPoMytxMWKtM=",
+  "Hash": "IOZpzYshckrNY2ycSwdFHL494C7Mvpoz4cHd8mES8sE=",
   "Source": "Ecommerce-Software-Project",
   "BasePath": "_content/Ecommerce-Software-Project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Ecommerce-Software-Project\\wwwroot",
       "Source": "Ecommerce-Software-Project",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Ecommerce-Software-Project.styles.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Ecommerce-Software-Project.styles.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "Ecommerce-Software-Project.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Ecommerce-Software-Project.styles.css"
+      "OriginalItemSpec": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Ecommerce-Software-Project.styles.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ecommerce-Software-Project.bundle.scp.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ecommerce-Software-Project.bundle.scp.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "Ecommerce-Software-Project.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ecommerce-Software-Project.bundle.scp.css"
+      "OriginalItemSpec": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ecommerce-Software-Project.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\css\\site.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\css\\site.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\customer.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\customer.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "customer.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\customer.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\favicon.ico",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\favicon.ico",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\gears_motor.gif",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\gears_motor.gif",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "gears_motor.gif",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\gears_motor.gif"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\03204c8c-c919-4258-bad4-932c27a93b57KayO_Valorant_4K_Phone_iPhone_Wallp.jpeg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\03204c8c-c919-4258-bad4-932c27a93b57KayO_Valorant_4K_Phone_iPhone_Wallp.jpeg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/03204c8c-c919-4258-bad4-932c27a93b57KayO_Valorant_4K_Phone_iPhone_Wallp.jpeg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\03204c8c-c919-4258-bad4-932c27a93b57KayO_Valorant_4K_Phone_iPhone_Wallp.jpeg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\0fdc3a87-a02b-4c59-9bfa-86e9a1bc1a17R.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\0fdc3a87-a02b-4c59-9bfa-86e9a1bc1a17R.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/0fdc3a87-a02b-4c59-9bfa-86e9a1bc1a17R.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\0fdc3a87-a02b-4c59-9bfa-86e9a1bc1a17R.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\11b17e26-c4e8-4317-8c33-259aec739d88IMG20210825173556.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\11b17e26-c4e8-4317-8c33-259aec739d88IMG20210825173556.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/11b17e26-c4e8-4317-8c33-259aec739d88IMG20210825173556.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\11b17e26-c4e8-4317-8c33-259aec739d88IMG20210825173556.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1d3ac5a6-3f5b-40e8-aa33-993dc40329b52a39e9ca-0dae-40b7-813f-6bf8bdf63052.jpeg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1d3ac5a6-3f5b-40e8-aa33-993dc40329b52a39e9ca-0dae-40b7-813f-6bf8bdf63052.jpeg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/1d3ac5a6-3f5b-40e8-aa33-993dc40329b52a39e9ca-0dae-40b7-813f-6bf8bdf63052.jpeg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1d3ac5a6-3f5b-40e8-aa33-993dc40329b52a39e9ca-0dae-40b7-813f-6bf8bdf63052.jpeg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1f67186d-f483-4c13-9d08-ca8a74ae135fcotton-tshirt.d306f9b.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1f67186d-f483-4c13-9d08-ca8a74ae135fcotton-tshirt.d306f9b.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/1f67186d-f483-4c13-9d08-ca8a74ae135fcotton-tshirt.d306f9b.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1f67186d-f483-4c13-9d08-ca8a74ae135fcotton-tshirt.d306f9b.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1f87595e-ca4a-4a32-8f9d-2e6d33f6fb572-post.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1f87595e-ca4a-4a32-8f9d-2e6d33f6fb572-post.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/1f87595e-ca4a-4a32-8f9d-2e6d33f6fb572-post.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1f87595e-ca4a-4a32-8f9d-2e6d33f6fb572-post.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1fd0ad40-09af-4037-b298-18e70271d8aa2-post-removebg-preview.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\1fd0ad40-09af-4037-b298-18e70271d8aa2-post-removebg-preview.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/1fd0ad40-09af-4037-b298-18e70271d8aa2-post-removebg-preview.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1fd0ad40-09af-4037-b298-18e70271d8aa2-post-removebg-preview.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\201392e3-0ec5-4f6b-b161-c3158c221349iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\201392e3-0ec5-4f6b-b161-c3158c221349iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/201392e3-0ec5-4f6b-b161-c3158c221349iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\201392e3-0ec5-4f6b-b161-c3158c221349iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2b8e128a-92dd-44b8-8fd1-e01485a536c3big-sur-mountains-clouds-daylight-sunny-day-macos-big-sur-1920x1200-1492.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2b8e128a-92dd-44b8-8fd1-e01485a536c3big-sur-mountains-clouds-daylight-sunny-day-macos-big-sur-1920x1200-1492.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/2b8e128a-92dd-44b8-8fd1-e01485a536c3big-sur-mountains-clouds-daylight-sunny-day-macos-big-sur-1920x1200-1492.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2b8e128a-92dd-44b8-8fd1-e01485a536c3big-sur-mountains-clouds-daylight-sunny-day-macos-big-sur-1920x1200-1492.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2be7ac43-e8b3-484d-aabd-3c59651d960d800px-Node.js_logo.svg.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2be7ac43-e8b3-484d-aabd-3c59651d960d800px-Node.js_logo.svg.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/2be7ac43-e8b3-484d-aabd-3c59651d960d800px-Node.js_logo.svg.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2be7ac43-e8b3-484d-aabd-3c59651d960d800px-Node.js_logo.svg.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2c74b262-99e6-4d5d-9d48-57d71876679bFRIt18WWYAASZny.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2c74b262-99e6-4d5d-9d48-57d71876679bFRIt18WWYAASZny.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/2c74b262-99e6-4d5d-9d48-57d71876679bFRIt18WWYAASZny.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2c74b262-99e6-4d5d-9d48-57d71876679bFRIt18WWYAASZny.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2d23f17e-6b5e-42c3-b50e-a097e75b3e6fJ0k1DN1T_400x400.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\2d23f17e-6b5e-42c3-b50e-a097e75b3e6fJ0k1DN1T_400x400.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/2d23f17e-6b5e-42c3-b50e-a097e75b3e6fJ0k1DN1T_400x400.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2d23f17e-6b5e-42c3-b50e-a097e75b3e6fJ0k1DN1T_400x400.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\31d563d0-9887-4d88-9931-377798c7ae2cimage-jpg-t-1590534666-size-Large.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\31d563d0-9887-4d88-9931-377798c7ae2cimage-jpg-t-1590534666-size-Large.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/31d563d0-9887-4d88-9931-377798c7ae2cimage-jpg-t-1590534666-size-Large.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\31d563d0-9887-4d88-9931-377798c7ae2cimage-jpg-t-1590534666-size-Large.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg",
       "AssetKind": "All",
@@ -357,10 +357,27 @@
       "OriginalItemSpec": "wwwroot\\images\\328e17b3-a766-497a-8dd1-2b0aa142c919project_image.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\38ce6d3b-82c1-4dd0-ba80-fee4e6d61d3e800px-Node.js_logo.svg.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\35e74329-fbec-4a7c-909f-c05ae9ad64507090.1571152901.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/35e74329-fbec-4a7c-909f-c05ae9ad64507090.1571152901.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\35e74329-fbec-4a7c-909f-c05ae9ad64507090.1571152901.jpg"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\38ce6d3b-82c1-4dd0-ba80-fee4e6d61d3e800px-Node.js_logo.svg.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/38ce6d3b-82c1-4dd0-ba80-fee4e6d61d3e800px-Node.js_logo.svg.png",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\38ce6d3b-82c1-4dd0-ba80-fee4e6d61d3e800px-Node.js_logo.svg.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\3d9d636f-fb5d-4291-8589-1b4f0b336257OIP (1).jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\3d9d636f-fb5d-4291-8589-1b4f0b336257OIP (1).jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/3d9d636f-fb5d-4291-8589-1b4f0b336257OIP (1).jpg",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3d9d636f-fb5d-4291-8589-1b4f0b336257OIP (1).jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\4434ad29-3dbd-4b91-a673-a3d3530d1856Screenshot 2022-04-22 013227.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\4434ad29-3dbd-4b91-a673-a3d3530d1856Screenshot 2022-04-22 013227.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/4434ad29-3dbd-4b91-a673-a3d3530d1856Screenshot 2022-04-22 013227.png",
       "AssetKind": "All",
@@ -408,10 +425,27 @@
       "OriginalItemSpec": "wwwroot\\images\\4434ad29-3dbd-4b91-a673-a3d3530d1856Screenshot 2022-04-22 013227.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\4d2dd669-d88c-4d84-96b3-311a5df4ec64CEysM.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\4b5ed388-5e58-4ffe-a478-bad736f0db1d800px-Node.js_logo.svg.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/4b5ed388-5e58-4ffe-a478-bad736f0db1d800px-Node.js_logo.svg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4b5ed388-5e58-4ffe-a478-bad736f0db1d800px-Node.js_logo.svg.png"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\4d2dd669-d88c-4d84-96b3-311a5df4ec64CEysM.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/4d2dd669-d88c-4d84-96b3-311a5df4ec64CEysM.jpg",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4d2dd669-d88c-4d84-96b3-311a5df4ec64CEysM.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\5b9eb3cf-15a0-4d0d-b950-4dc790db4a8eWhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\5b9eb3cf-15a0-4d0d-b950-4dc790db4a8eWhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/5b9eb3cf-15a0-4d0d-b950-4dc790db4a8eWhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg",
       "AssetKind": "All",
@@ -442,10 +476,27 @@
       "OriginalItemSpec": "wwwroot\\images\\5b9eb3cf-15a0-4d0d-b950-4dc790db4a8eWhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\5e93ab23-645e-4f0f-80a7-475a834d6fd92-post.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\5ceb1952-81bb-4820-a8c2-8b3c1cef5372800px-Node.js_logo.svg.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/5ceb1952-81bb-4820-a8c2-8b3c1cef5372800px-Node.js_logo.svg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5ceb1952-81bb-4820-a8c2-8b3c1cef5372800px-Node.js_logo.svg.png"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\5e93ab23-645e-4f0f-80a7-475a834d6fd92-post.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/5e93ab23-645e-4f0f-80a7-475a834d6fd92-post.png",
       "AssetKind": "All",
@@ -459,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\5e93ab23-645e-4f0f-80a7-475a834d6fd92-post.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\671a04f6-4a4a-476f-889e-b07c36a2e76641f56ed5-b2f3-4b2a-b1bf-5b3d95fe04ce.jpeg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\671a04f6-4a4a-476f-889e-b07c36a2e76641f56ed5-b2f3-4b2a-b1bf-5b3d95fe04ce.jpeg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/671a04f6-4a4a-476f-889e-b07c36a2e76641f56ed5-b2f3-4b2a-b1bf-5b3d95fe04ce.jpeg",
       "AssetKind": "All",
@@ -476,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\671a04f6-4a4a-476f-889e-b07c36a2e76641f56ed5-b2f3-4b2a-b1bf-5b3d95fe04ce.jpeg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\6b7e4135-ea5f-415d-8947-27e82af2595ecotton-tshirt.d306f9b.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\6b7e4135-ea5f-415d-8947-27e82af2595ecotton-tshirt.d306f9b.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/6b7e4135-ea5f-415d-8947-27e82af2595ecotton-tshirt.d306f9b.jpg",
       "AssetKind": "All",
@@ -493,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6b7e4135-ea5f-415d-8947-27e82af2595ecotton-tshirt.d306f9b.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\77be3596-d2c4-46cc-8f4e-bafb4d521926WhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\77be3596-d2c4-46cc-8f4e-bafb4d521926WhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/77be3596-d2c4-46cc-8f4e-bafb4d521926WhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg",
       "AssetKind": "All",
@@ -510,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\77be3596-d2c4-46cc-8f4e-bafb4d521926WhatsApp Image 2022-04-27 at 10.18.45 PM.jpeg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\7aae289a-22de-4df5-9a59-9b612926503dJ0k1DN1T_400x400.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\7aae289a-22de-4df5-9a59-9b612926503dJ0k1DN1T_400x400.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/7aae289a-22de-4df5-9a59-9b612926503dJ0k1DN1T_400x400.jpg",
       "AssetKind": "All",
@@ -527,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7aae289a-22de-4df5-9a59-9b612926503dJ0k1DN1T_400x400.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\812a786c-eede-4ef8-a961-13c04d33b1ccIMG20210825173556.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\812a786c-eede-4ef8-a961-13c04d33b1ccIMG20210825173556.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/812a786c-eede-4ef8-a961-13c04d33b1ccIMG20210825173556.jpg",
       "AssetKind": "All",
@@ -544,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\812a786c-eede-4ef8-a961-13c04d33b1ccIMG20210825173556.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\81526f46-21fb-46da-995e-3e28191651becotton-tshirt.d306f9b.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\81526f46-21fb-46da-995e-3e28191651becotton-tshirt.d306f9b.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/81526f46-21fb-46da-995e-3e28191651becotton-tshirt.d306f9b.jpg",
       "AssetKind": "All",
@@ -561,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\81526f46-21fb-46da-995e-3e28191651becotton-tshirt.d306f9b.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\81f2ea9a-ad46-40f2-b376-7e88deec46e8unknown.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\81f2ea9a-ad46-40f2-b376-7e88deec46e8unknown.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/81f2ea9a-ad46-40f2-b376-7e88deec46e8unknown.png",
       "AssetKind": "All",
@@ -578,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\81f2ea9a-ad46-40f2-b376-7e88deec46e8unknown.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\872b9468-e191-4772-b440-9c0f8ab3d0e9image-jpg-t-1590534666-size-Large.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\872b9468-e191-4772-b440-9c0f8ab3d0e9image-jpg-t-1590534666-size-Large.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/872b9468-e191-4772-b440-9c0f8ab3d0e9image-jpg-t-1590534666-size-Large.jpg",
       "AssetKind": "All",
@@ -595,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\872b9468-e191-4772-b440-9c0f8ab3d0e9image-jpg-t-1590534666-size-Large.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\87581ab8-ff8d-45b3-9dfb-7a1d49a12c1fFRIt18WWYAASZny.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\87581ab8-ff8d-45b3-9dfb-7a1d49a12c1fFRIt18WWYAASZny.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/87581ab8-ff8d-45b3-9dfb-7a1d49a12c1fFRIt18WWYAASZny.jpg",
       "AssetKind": "All",
@@ -612,10 +663,27 @@
       "OriginalItemSpec": "wwwroot\\images\\87581ab8-ff8d-45b3-9dfb-7a1d49a12c1fFRIt18WWYAASZny.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\8bf8d6a3-5113-448b-bae2-e902c5d7606elibrary.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\881cdbea-f56b-4ae8-8e36-791c5e9caabd12312.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/881cdbea-f56b-4ae8-8e36-791c5e9caabd12312.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\881cdbea-f56b-4ae8-8e36-791c5e9caabd12312.png"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\8bf8d6a3-5113-448b-bae2-e902c5d7606elibrary.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/8bf8d6a3-5113-448b-bae2-e902c5d7606elibrary.jpg",
       "AssetKind": "All",
@@ -629,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8bf8d6a3-5113-448b-bae2-e902c5d7606elibrary.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\90ac26e6-5fcc-4c17-9049-4eb0fd79472f2-post-removebg-preview.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\90ac26e6-5fcc-4c17-9049-4eb0fd79472f2-post-removebg-preview.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/90ac26e6-5fcc-4c17-9049-4eb0fd79472f2-post-removebg-preview.jpg",
       "AssetKind": "All",
@@ -646,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\90ac26e6-5fcc-4c17-9049-4eb0fd79472f2-post-removebg-preview.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\9eebf0de-cdbe-4a84-b71f-5c4d80683d39IMG20210825173556.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\9eebf0de-cdbe-4a84-b71f-5c4d80683d39IMG20210825173556.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/9eebf0de-cdbe-4a84-b71f-5c4d80683d39IMG20210825173556.jpg",
       "AssetKind": "All",
@@ -663,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9eebf0de-cdbe-4a84-b71f-5c4d80683d39IMG20210825173556.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\a1d10728-b1fd-4b47-a977-c377c91cc01funknown.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\a1d10728-b1fd-4b47-a977-c377c91cc01funknown.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/a1d10728-b1fd-4b47-a977-c377c91cc01funknown.png",
       "AssetKind": "All",
@@ -680,10 +748,27 @@
       "OriginalItemSpec": "wwwroot\\images\\a1d10728-b1fd-4b47-a977-c377c91cc01funknown.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\a5d79b65-64ab-47f5-adff-a1b2009c23ccScreenshot 2021-07-02 132611.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\a431c100-df59-4817-b30e-c3c5d0b29ab2iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/a431c100-df59-4817-b30e-c3c5d0b29ab2iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a431c100-df59-4817-b30e-c3c5d0b29ab2iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\a5d79b65-64ab-47f5-adff-a1b2009c23ccScreenshot 2021-07-02 132611.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/a5d79b65-64ab-47f5-adff-a1b2009c23ccScreenshot 2021-07-02 132611.png",
       "AssetKind": "All",
@@ -697,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a5d79b65-64ab-47f5-adff-a1b2009c23ccScreenshot 2021-07-02 132611.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\ad4de00d-05a1-4437-890c-27bbdbcf57d2IMG20210825173556.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\ad4de00d-05a1-4437-890c-27bbdbcf57d2IMG20210825173556.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/ad4de00d-05a1-4437-890c-27bbdbcf57d2IMG20210825173556.jpg",
       "AssetKind": "All",
@@ -714,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad4de00d-05a1-4437-890c-27bbdbcf57d2IMG20210825173556.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\b18a52a8-fbc5-4110-ae26-bffb686de455FB_IMG_1648040466871.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\b18a52a8-fbc5-4110-ae26-bffb686de455FB_IMG_1648040466871.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/b18a52a8-fbc5-4110-ae26-bffb686de455FB_IMG_1648040466871.jpg",
       "AssetKind": "All",
@@ -731,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b18a52a8-fbc5-4110-ae26-bffb686de455FB_IMG_1648040466871.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\bf7a1c67-b7af-4519-ba22-0155462ab0dfOIP.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\bf7a1c67-b7af-4519-ba22-0155462ab0dfOIP.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/bf7a1c67-b7af-4519-ba22-0155462ab0dfOIP.jpg",
       "AssetKind": "All",
@@ -748,10 +833,61 @@
       "OriginalItemSpec": "wwwroot\\images\\bf7a1c67-b7af-4519-ba22-0155462ab0dfOIP.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\de47ffde-ce02-428a-94a6-eb9c403dc0c3solo-leveling-red-and-blue-jin-woo-lqkysn5j2dwbkyj1.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\c53d9c2b-3970-4f1b-be3d-c050097157007090.1571152901.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/c53d9c2b-3970-4f1b-be3d-c050097157007090.1571152901.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c53d9c2b-3970-4f1b-be3d-c050097157007090.1571152901.jpg"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\cb95f85b-889a-4eb1-8939-eea2fb24486612312.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/cb95f85b-889a-4eb1-8939-eea2fb24486612312.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cb95f85b-889a-4eb1-8939-eea2fb24486612312.png"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\d588083f-35af-4ffd-8e3b-2413c995212612312.png",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/d588083f-35af-4ffd-8e3b-2413c995212612312.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d588083f-35af-4ffd-8e3b-2413c995212612312.png"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\de47ffde-ce02-428a-94a6-eb9c403dc0c3solo-leveling-red-and-blue-jin-woo-lqkysn5j2dwbkyj1.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/de47ffde-ce02-428a-94a6-eb9c403dc0c3solo-leveling-red-and-blue-jin-woo-lqkysn5j2dwbkyj1.jpg",
       "AssetKind": "All",
@@ -765,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\de47ffde-ce02-428a-94a6-eb9c403dc0c3solo-leveling-red-and-blue-jin-woo-lqkysn5j2dwbkyj1.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\e0ac6c4b-c9ee-4949-98a3-85dcb6602effautumn-forest-aerial-view-fall-seasons-colourful-trees-4000x3000-6878.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\e0ac6c4b-c9ee-4949-98a3-85dcb6602effautumn-forest-aerial-view-fall-seasons-colourful-trees-4000x3000-6878.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/e0ac6c4b-c9ee-4949-98a3-85dcb6602effautumn-forest-aerial-view-fall-seasons-colourful-trees-4000x3000-6878.jpg",
       "AssetKind": "All",
@@ -782,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\e0ac6c4b-c9ee-4949-98a3-85dcb6602effautumn-forest-aerial-view-fall-seasons-colourful-trees-4000x3000-6878.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\e27265f4-fdf3-4ad4-b488-ef66ab3390aaecommerce-product-images-laptop.webp",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\e27265f4-fdf3-4ad4-b488-ef66ab3390aaecommerce-product-images-laptop.webp",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/e27265f4-fdf3-4ad4-b488-ef66ab3390aaecommerce-product-images-laptop.webp",
       "AssetKind": "All",
@@ -799,10 +935,27 @@
       "OriginalItemSpec": "wwwroot\\images\\e27265f4-fdf3-4ad4-b488-ef66ab3390aaecommerce-product-images-laptop.webp"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\e7d99548-82b1-4cef-ab7f-645572c372457090.1571152901.jpg",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/e7d99548-82b1-4cef-ab7f-645572c372457090.1571152901.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e7d99548-82b1-4cef-ab7f-645572c372457090.1571152901.jpg"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg",
       "AssetKind": "All",
@@ -816,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ea3ab02d-2f6c-48ae-9a2a-2700e1e2d3f9iPad-Pro-11-2021-LTE-128GB-Space-Grey-0194252203750-26052021-1-p.jpg"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f08558ec-38e2-4de6-97b5-d070cc905eabScreenshot 2022-04-22 013227.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f08558ec-38e2-4de6-97b5-d070cc905eabScreenshot 2022-04-22 013227.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/f08558ec-38e2-4de6-97b5-d070cc905eabScreenshot 2022-04-22 013227.png",
       "AssetKind": "All",
@@ -833,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\f08558ec-38e2-4de6-97b5-d070cc905eabScreenshot 2022-04-22 013227.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f56a21cd-1b99-43fc-8332-3de932619df3unknown.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f56a21cd-1b99-43fc-8332-3de932619df3unknown.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/f56a21cd-1b99-43fc-8332-3de932619df3unknown.png",
       "AssetKind": "All",
@@ -850,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\f56a21cd-1b99-43fc-8332-3de932619df3unknown.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f5814e40-bdb3-4234-8c62-5287ea9ad196Screenshot 2022-04-22 013227.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f5814e40-bdb3-4234-8c62-5287ea9ad196Screenshot 2022-04-22 013227.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "images/f5814e40-bdb3-4234-8c62-5287ea9ad196Screenshot 2022-04-22 013227.png",
       "AssetKind": "All",
@@ -867,10 +1020,27 @@
       "OriginalItemSpec": "wwwroot\\images\\f5814e40-bdb3-4234-8c62-5287ea9ad196Screenshot 2022-04-22 013227.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\js\\site.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\images\\f7ce034c-0136-4e74-89c8-4d403cf62f51800px-Node.js_logo.svg.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "BasePath": "_content/Ecommerce-Software-Project",
+      "RelativePath": "images/f7ce034c-0136-4e74-89c8-4d403cf62f51800px-Node.js_logo.svg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f7ce034c-0136-4e74-89c8-4d403cf62f51800px-Node.js_logo.svg.png"
+    },
+    {
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\js\\site.js",
+      "SourceId": "Ecommerce-Software-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -884,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -901,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -918,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -935,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -952,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -969,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -986,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1003,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1020,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1037,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1054,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1071,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1088,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1105,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1122,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1139,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1156,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1173,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1190,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1207,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1224,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1241,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1258,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1275,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1292,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1309,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1326,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1343,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1360,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1377,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1394,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1411,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1428,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1445,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1462,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1479,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1496,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1513,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1530,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1547,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1564,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1581,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1598,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1615,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1632,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1649,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1666,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1683,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1700,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1717,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1734,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1751,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1768,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1785,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1802,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1819,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1836,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1853,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\movingcart.gif",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\movingcart.gif",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "movingcart.gif",
       "AssetKind": "All",
@@ -1870,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\movingcart.gif"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\product.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\product.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "product.png",
       "AssetKind": "All",
@@ -1887,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\product.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\rating.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\rating.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "rating.png",
       "AssetKind": "All",
@@ -1904,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\rating.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\shop (1).png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\shop (1).png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "shop (1).png",
       "AssetKind": "All",
@@ -1921,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\shop (1).png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\shop (2).png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\shop (2).png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "shop (2).png",
       "AssetKind": "All",
@@ -1938,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\shop (2).png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\shop.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\shop.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "shop.png",
       "AssetKind": "All",
@@ -1955,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\shop.png"
     },
     {
-      "Identity": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\subfolder.png",
+      "Identity": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\subfolder.png",
       "SourceId": "Ecommerce-Software-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\E-Commerce\\repo\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
+      "ContentRoot": "D:\\FCAI\\Year three\\Second semester\\Software Enginnering-2\\testing project final\\E-Commerce\\Ecommerce-Software-Project\\wwwroot\\",
       "BasePath": "_content/Ecommerce-Software-Project",
       "RelativePath": "subfolder.png",
       "AssetKind": "All",

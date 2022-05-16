@@ -64,7 +64,7 @@ namespace Ecommerce_Software_Project.Controllers
             db.Products.Add(productForm.product);
             db.SaveChanges();
 
-            TempData[Toaster.Success] = "You have succeded in registration, Please login to continue.";
+            TempData[Toaster.Success] = "Your product was added successfully.";
             return RedirectToAction("Addproduct");
         }
 
@@ -92,13 +92,13 @@ namespace Ecommerce_Software_Project.Controllers
         }
 
         [HttpPost]
-        public IActionResult GetAllProductOfShop(string searchProduct, string categoryValue)
+        public IActionResult GetAllProductOfShop(string searchProduct)
         {
-            return View(GetAllProductShop(searchProduct, categoryValue));
+            return View(GetAllProductShop(searchProduct));
         }
-        public IEnumerable<Product> GetAllProductShop(string searchProduct, string categoryValue)
+        public IEnumerable<Product> GetAllProductShop(string searchProduct)
         {
-            var prods = db.Products.Include(e => e.Category).Include(s => s.Seller).Where(e => e.ProductName.Contains(searchProduct) && e.Category.CategoryName.Contains(categoryValue)).Include(u => u.Seller);
+            var prods = db.Products.Include(e => e.Category).Include(s => s.Seller).Where(e => e.ProductName.Contains(searchProduct));
             return prods;
         }
 
@@ -138,7 +138,7 @@ namespace Ecommerce_Software_Project.Controllers
 
             db.Reviews.Add(review);
             db.SaveChanges();
-            return Redirect("/");
+            return this.ShowProductDetails(product.Id);
         }
         [HttpGet]
         public IEnumerable<Review> displayReviews(int id)
