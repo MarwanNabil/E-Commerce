@@ -16,7 +16,6 @@
 ## About The Project
 
 [ https://youtu.be/16bO_Z_ivJU ]
-[ https://youtu.be/16bO_Z_ivJU ]
 
 it's a an e-commerce website which basically started with those features.
 
@@ -33,9 +32,6 @@ admin privileges
 * delete categories
 * add categories
 * delete product
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
